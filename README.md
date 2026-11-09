@@ -1,20 +1,26 @@
 Hi, I'm Berkin! 👋
-🎓 Electrical Engineering Student @ Yıldız Technical University | GPA: 3.75
+🎓 Electronics and Communication Engineering Student @ Yıldız Technical University 
 
 I am an engineering student deeply passionate about Hardware Engineering, IC Design, and Semiconductor Technologies. I am focused on building a strong theoretical and practical foundation for a global career in chip design.
 
 🌱 Currently Focusing On:
 
-Studying fundamental digital logic concepts.      
+Deepening digital design skills with SystemVerilog & Verilog.
 
-Taking my first steps into Verilog and FPGA architectures.
+Designing and simulating custom RTL modules using AMD Vivado.
 
-Improving my technical English for international engineering opportunities.
+Hands-on FPGA implementation, verification, and timing analysis.
 
-🛠️ Tools & Technologies:
+Improving technical English for international engineering opportunities.
+
+
+🛠 Tools & Technologies:
+
+Hardware & EDA: SystemVerilog, Verilog, Vivado, ModelSim/Questa
 
 Programming & Computing: C, MATLAB
 
 Design & Drafting: AutoCAD
+
 
 📫 Let's Connect: https://www.linkedin.com/in/berkin-gulay/
